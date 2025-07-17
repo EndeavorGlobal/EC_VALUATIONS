@@ -6,3 +6,5 @@ When attempting to modify or run source code files from Project 2:
 All necessary libraries are pre-imported into the venv. 
 
 When pushing changed or new library imports, with VENV activated make sure to freeze new imports in PShell terminal: freeze > requirements.txt
+
+Note that both train_model.exe and predict_model.exe are standalone onefiles, obfuscated with Nuitka, therefore distribution is safe and acceptable. 
