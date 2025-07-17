@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+Note: Still getting chained assignment error in EXE but you can ignore it, just a warning.
+
 predict_model.py · v2025-07-08-gini-2level-fix3
 
 Adds a confidence / Gini-impurity metric that combines the ML classifier
